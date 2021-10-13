@@ -420,9 +420,17 @@ PrefabInstance:
       value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 5483275606954362864, guid: fd0c40e2984f341498fc140fe205d97b, type: 3}
+      propertyPath: speedDecay
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5483275606954362864, guid: fd0c40e2984f341498fc140fe205d97b, type: 3}
       propertyPath: bulletSpawn
       value: 
       objectReference: {fileID: 5483275607223029315}
+    - target: {fileID: 5483275606954362864, guid: fd0c40e2984f341498fc140fe205d97b, type: 3}
+      propertyPath: HorizontalForce
+      value: 12
+      objectReference: {fileID: 0}
     - target: {fileID: 5483275606954362867, guid: fd0c40e2984f341498fc140fe205d97b, type: 3}
       propertyPath: m_RootOrder
       value: 3
